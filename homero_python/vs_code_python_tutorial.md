@@ -37,9 +37,3 @@ print("Hello, World!")
 Ha VS Code kéri:
 - Telepítsd a **Python Extension**-t a Microsoft-tól
 - Extensions panelben (`Ctrl + Shift + X`) keresd: "Python"
-
-## Hasznos tippek:
-- **Automatikus kiegészítés**: `Ctrl + Space`
-- **Kód futtatása részenként**: Jelöld ki a kódot és `F8`
-- **Fájl bezárása**: `Ctrl + W`
-- **Több fájl között váltás**: `Ctrl + Tab`
