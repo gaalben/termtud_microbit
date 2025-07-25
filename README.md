@@ -1,7 +1,7 @@
 # Természettudományok mirco:bittel - Programfájlok
 <img width="2803" height="3631" alt="cover" src="https://github.com/user-attachments/assets/d21a531f-be68-41f6-9d7d-a465b1d16f66" />
 
-Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
+Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 
 This work is licensed under a
